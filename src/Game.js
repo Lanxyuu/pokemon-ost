@@ -32,7 +32,6 @@ function Display(props) {
     }
     if (props.stage == "correctAnswer" || props.stage == "skipped") {
         var correct = (props.stage == "correctAnswer") ? "Correct! " : correct = "";
-        var colorStyle;
         var timeRem, timeMes = <></>;
         if (props.type == "timed") {
             timeMes = "Time Remaining: "
@@ -40,6 +39,7 @@ function Display(props) {
             timerStyle = (props.minutes < 1 && props.seconds < 10) ? "timer-red" : "timer";
         }
         var randImg = Math.floor(Math.random() * props.song.imgUrl.length);
+        console.log(props.song.imgUrl[randImg]);
         return (
             <>
                 <div className={timerStyle}>{timeMes}<b>{timeRem}</b></div>

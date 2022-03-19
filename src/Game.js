@@ -188,7 +188,7 @@ class Game extends React.Component {
     changeStage(stage) {
         if (stage == "end") {
             this.audio.stop();
-            if (this.state.stage == "playing" || (this.props.type == "timed" && this.state.stage != "skipped")) {
+            if (this.state.stage == "playing" || this.state.stage == "wrongAnswer" || (this.props.type == "timed" && this.state.stage != "skipped")) {
                 this.setState({
                     playHistory: this.state.playHistory.concat([{ songName: this.state.song.fullName[this.ver], status: "Skipped" }]),
                 });

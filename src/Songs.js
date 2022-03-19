@@ -233,7 +233,7 @@ const songs = [
     imgUrl: ["https://docs.google.com/uc?export=download&id=1tcIwgGSUci5Bya8fVHvHyu8NezG_Zxpe"] },
     { label: "Ultra Necrozma", answers: ["ultra necrozma", "necrozma"], fullName: ["Battle! (Ultra Necrozma) - Ultra Sun/Ultra Moon"], type: "pokemon", region: "Alola",
     fileUrl: ["https://vgmsite.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-battle-music-selection/rnakgxvnfs/20.%20Battle%21%20%28Ultra%20Necrozma%29.mp3"], 
-    imgUrl: ["https://docs.google.com/uc?export=download&id=1UfAYSc_aeBVLnnxpn3BiOpvPhZOfi-Tf"] },
+    imgUrl: ["https://docs.google.com/uc?export=download&id=1kozWSA6_EUxVYGPuJAEioqAF1OV_3TJD"] },
     { label: "Ultra Beast", answers: ["ultra beasts", "ultra beast", "ub", "nihilego", "buzzwole", "pheromosa", "xurkitree", "celesteela", "kartana", "guzzlord", "poipole", "naganadel", "stakataka", "blacephalon"], fullName: ["Battle! (Ultra Beast) - Sun/Moon"], type: "pokemon", region: "Alola",
     fileUrl: ["https://vgmsite.com/soundtracks/pokemon-sun-moon-super-music-collection/udtkutwnkk/102%20Battle%21%20%28Ultra%20Beast%29.mp3"], 
     imgUrl: ["https://docs.google.com/uc?export=download&id=18ZPDFbKVtOveilg36muru4JQfaPUoic5"] },

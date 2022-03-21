@@ -204,7 +204,7 @@ const songs = [
     { label: "Guzma", answers: ["guzma", "your boy", "your boi", "ya boi", "ya boy", "team skull boss", "team skull boss guzma"], fullName: ["Battle! (Team Skull Boss) - Sun/Moon"], type: "person", region: "Alola",
     fileUrl: ["https://vgmsite.com/soundtracks/pokemon-sun-moon-super-music-collection/jtwepayuhc/107%20Battle%21%20%28Team%20Skull%20Boss%29.mp3"], 
     imgUrl: ["https://docs.google.com/uc?export=download&id=12b-bk_8Tw5_UfempsBkLcMsRPQKyDI3U"] },
-    { label: "Plumeria", answers: ["plumeria", "team skull admin", "skull admin"], fullName: ["Battle! (Team Skull Admin - Sun/Moon"], type: "person", region: "Alola",
+    { label: "Plumeria", answers: ["plumeria", "team skull admin", "skull admin"], fullName: ["Battle! (Team Skull Admin) - Sun/Moon"], type: "person", region: "Alola",
     fileUrl: ["https://vgmsite.com/soundtracks/pokemon-sun-moon-super-music-collection/awtyyluhwi/96%20Battle%21%20%28Team%20Skull%20Admin%29.mp3"], 
     imgUrl: ["https://docs.google.com/uc?export=download&id=1Yejnbvzd7_JGGV2yCpdSyJxd_mZEjRsE"] },
     { label: "Totem Pokemon", answers: ["totem", "alola gym", "alola totem", "totem pokemon"], fullName: ["Battle! (Totem Pokémon) - Sun/Moon"], type: "event", region: "Alola",

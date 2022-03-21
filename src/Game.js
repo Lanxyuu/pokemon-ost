@@ -59,7 +59,7 @@ function Display(props) {
         changeStage={(stage) => props.changeStage(stage)}
         setMinute={(min) => props.setMinute(min)}
         setSecond={(sec) => props.setSecond(sec)} /> : <></>;
-    var message = (props.stage == "playing") ? "Now playing..." : "Wrong! Please make sure you're following input specifications.";
+    var message = (props.stage == "playing") ? "Now playing..." : "Wrong!";
     var timerStyle = (props.minutes < 1 && props.seconds < 10) ? "timer-red" : "timer";
     return (
         <>

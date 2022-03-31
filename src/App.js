@@ -22,7 +22,7 @@ function Footer() {
   return (
     <footer>
       <>
-        Pokemon: Legends Arceus music downloaded from <a href="https://www.youtube.com/channel/UC2ccJMFWSbjklOQESSBP_dw">Pokeli</a>, all other music retrieved from <a href="https://downloads.khinsider.com/"  target="_blank" rel="noopener noreferrer">Khinsider</a>, .<br/>
+        Pokemon: Legends Arceus music downloaded from <a href="https://www.youtube.com/channel/UC2ccJMFWSbjklOQESSBP_dw">Pokeli</a>, all other music retrieved from <a href="https://downloads.khinsider.com/"  target="_blank" rel="noopener noreferrer">Khinsider</a>.<br/>
         Images retrieved from <a href="https://archives.bulbagarden.net/wiki/Main_Page" target="_blank" rel="noopener noreferrer">Bulbagarden Archives</a>.<br/>
         Images/Music &copy; Pokemon/Nintendo.<br/>
         Made by Lanxyuu.

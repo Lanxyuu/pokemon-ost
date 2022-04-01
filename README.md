@@ -1,5 +1,5 @@
 # Pokemon Battle OST Guessing Game!
-A browser-based game that generates random battle soundtracks from the Pokemon main series games and allows the user to guess. Has a casual and timed mode, streak counter, and song history.
+A browser-based game that generates random battle soundtracks from the Pokemon main series games and allows the user to guess the song. Has a casual and timed mode, streak counter, and song history.
 
 Live on [https://lanxyuu.github.io/pokemon-ost/](https://lanxyuu.github.io/pokemon-ost/).
 
@@ -40,6 +40,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Credits
+## Copyright
 
 Images, sound, and the Pokemon franchise are the intellectual property of Nintendo/Pokemon.

@@ -160,7 +160,7 @@ input[type="text"] {
 }
 
 .char-img-container {
-  min-height: 60vh;
+  min-height: 40vw;
   margin: 10px;
   display: flex;
   flex-direction: column;
@@ -168,7 +168,7 @@ input[type="text"] {
 }
 
 img.character-img {
-  min-height: 40vh;
+  min-height: 30vw;
   min-width: 30vw;
   max-height: 65vh;
   max-width: 60vw;
@@ -177,7 +177,7 @@ img.character-img {
   -moz-user-select: none;
   -webkit-user-select: none;
   -ms-user-select: none;
-  object-position: center top;
+  object-position: center;
   object-fit: contain;
   
   margin: auto;

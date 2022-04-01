@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pokemon-ost/static/css/main.0fafde36.css",
+    "main.css": "/pokemon-ost/static/css/main.ef8a17e0.css",
     "main.js": "/pokemon-ost/static/js/main.968af5e5.js",
     "index.html": "/pokemon-ost/index.html",
-    "main.0fafde36.css.map": "/pokemon-ost/static/css/main.0fafde36.css.map",
+    "main.ef8a17e0.css.map": "/pokemon-ost/static/css/main.ef8a17e0.css.map",
     "main.968af5e5.js.map": "/pokemon-ost/static/js/main.968af5e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fafde36.css",
+    "static/css/main.ef8a17e0.css",
     "static/js/main.968af5e5.js"
   ]
 }

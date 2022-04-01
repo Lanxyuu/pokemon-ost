@@ -39,7 +39,7 @@ function Display(props) {
             timerStyle = (props.minutes < 1 && props.seconds < 10) ? "timer-red" : "timer";
         }
         var randImg = Math.floor(Math.random() * props.song.imgUrl.length);
-        console.log(props.song.imgUrl[randImg]);
+        //console.log(props.song.imgUrl[randImg]);
         return (
             <>
                 <div className={timerStyle}>{timeMes}<b>{timeRem}</b></div>
@@ -200,7 +200,7 @@ class Game extends React.Component {
     }
 
     playSong() {
-        console.log(this.rand + " " + this.ver + " " + this.state.song.fullName[this.ver]);
+        //console.log(this.rand + " " + this.ver + " " + this.state.song.fullName[this.ver]);
         this.audio.play();
         this.playingSound = true;
     }

@@ -128,6 +128,7 @@ class Game extends React.Component {
         html5: true,                
     });
     playingSound = false;
+    songs = [this.rand];
 
     constructor(props) {
         super(props);
@@ -221,6 +222,13 @@ class Game extends React.Component {
 
     nextSong() {
         this.rand = Math.floor(Math.random() * songs.length);
+        if (this.props.type == "timed") {
+            while (this.songs.includes(this.rand)) {
+                this.rand = Math.floor(Math.random() * songs.length);
+            }
+            this.songs.push(this.rand);
+            console.log(this.songs);
+        }
         this.ver = Math.floor(Math.random() * songs[this.rand].fileUrl.length);
         this.audio = new Howl({
             src: songs[this.rand].fileUrl[this.ver],

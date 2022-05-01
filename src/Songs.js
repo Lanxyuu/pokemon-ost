@@ -227,7 +227,7 @@ const songs = [
     imgUrl: ["https://docs.google.com/uc?export=download&id=1tIXGfrENT1uCXqrF_DOb4LciB1VcouCs"] },
     { label: "Solgaleo/Lunala/Necroma", answers: ["solgaleo", "lunala", "necrozma", "light trio"], fullName: ["Battle! (Solgaleo-Lunala) - Sun/Moon (theme shared with regular Necroma)"], type: "pokemon", region: "Alola",
     fileUrl: ["https://vgmsite.com/soundtracks/pokemon-sun-moon-super-music-collection/falwiiauwy/142%20Battle%21%20%28Solgaleo%20-%20Lunala.mp3"], 
-    imgUrl: ["https://docs.google.com/uc?export=download&id=11iDtLUIg91Be4qP4pXIC_sa7yvuBDHhr", "https://docs.google.com/uc?export=download&id=1dWoCQJyJCCmoxFosWzzToSIrEhODe_eW", "https://docs.google.com/uc?export=download&id=1YxSIhgFJRTZ1IfHJzLPjm7RN4EWW1E5L"] },
+    imgUrl: ["https://docs.google.com/uc?export=download&id=17Nz3ruHXxQWSFU4m1ioHTSBNQXivza4k", "https://docs.google.com/uc?export=download&id=1dWoCQJyJCCmoxFosWzzToSIrEhODe_eW", "https://docs.google.com/uc?export=download&id=1YxSIhgFJRTZ1IfHJzLPjm7RN4EWW1E5L"] },
     { label: "Dawn Wings/Dusk Mane Necrozma", answers: ["necrozma", "dawn wings necrozma", "dusk mane necrozma"], fullName: ["Battle! (Dawn Wings Dusk Mane Necrozma) - Ultra Sun/Ultra Moon"], type: "pokemon", region: "Alola",
     fileUrl: ["https://vgmsite.com/soundtracks/pokemon-ultra-sun-and-pokemon-ultra-moon-sound-selection/cjimfcznsi/13%20-%20Battle%21%20%28Dusk%20Mane%20%20Dawn%20Wings%20Necrozma%29.mp3"], 
     imgUrl: ["https://docs.google.com/uc?export=download&id=1tcIwgGSUci5Bya8fVHvHyu8NezG_Zxpe"] },

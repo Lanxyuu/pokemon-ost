@@ -227,7 +227,6 @@ class Game extends React.Component {
                 this.rand = Math.floor(Math.random() * songs.length);
             }
             this.songs.push(this.rand);
-            console.log(this.songs);
         }
         this.ver = Math.floor(Math.random() * songs[this.rand].fileUrl.length);
         this.audio = new Howl({
